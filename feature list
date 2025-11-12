@@ -1,10 +1,16 @@
-Project name: Multiplayer Quiz Game (Explore more)
+Project name: Multiplayer Game Hub
+Descriptiom:
+A hub where multiple people can game together! games would be simple games like quizzes, tic-tac-toe, rock-paper-scissors, guessing games, etc.
 Features:
-1. Room creation and join
-2. Timed multiple-choice questions
-3. Leaderboard
-4. Question management
-5. Score history
-6. Match analytics
-7. Adaptive difficulty
-8. Power up/ sabotage mechanics
+1. Game library Page: displays all available games
+2. Create gaming session: Creating a session for specific games
+3. Joining a game session: joining an existing session
+4. Chat system (per session): Chatting between players
+5. Leaderboard: tracking top players in each game
+6. Player profile page: game history, player level, states
+7. Game history logs: Recording the player's game history
+8. Colour/theme customisation: picking UI theme
+Unique:
+9. "Build your own game": can customise game rules
+10. Bot players (adaptive difficulty): for people who want to enjoy single-player games
+11. "Game fusion" mode: Combine games into one
