@@ -1,12 +1,11 @@
 # BracU-CSE370-project
 This is a group project of CSE370! Group: 2 Section: 4
 
-
-
-
 Project name: Multiplayer Game Hub
+
 Description:
 A hub where multiple people can game together! games would be simple games like quizzes, tic-tac-toe, rock-paper-scissors, guessing games, etc.
+
 Features:
 1. Game library Page: displays all available games
 2. Create gaming session: Creating a session for specific games
@@ -16,6 +15,7 @@ Features:
 6. Player profile page: game history, player level, states
 7. Game history logs: Recording the player's game history
 8. Colour/theme customisation: picking UI theme
+
 Unique:
 9. "Build your own game": can customise game rules
 10. Bot players (adaptive difficulty): for people who want to enjoy single-player games
