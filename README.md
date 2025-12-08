@@ -8,7 +8,7 @@ A hub where multiple people can game together! games would be simple games like 
 
 Features:
 1. Game library Page: displays all available games
-2. Create gaming session: Creating a session for specific games
+2. Create a gaming session: Creating a session for specific games
 3. Joining a game session: joining an existing session
 4. Chat system (per session): Chatting between players
 5. Leaderboard: tracking top players in each game
