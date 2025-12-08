@@ -1,5 +1,9 @@
 # BracU-CSE370-project
 This is a group project of CSE370! Group: 2 Section: 4
+
+
+
+
 Project name: Multiplayer Game Hub
 Description:
 A hub where multiple people can game together! games would be simple games like quizzes, tic-tac-toe, rock-paper-scissors, guessing games, etc.
