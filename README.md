@@ -1,4 +1,4 @@
-# BracU-CSE370-project
+# GameHUB
 This is a group project of CSE370! Group: 2 Section: 4
 
 Project name: Multiplayer Game Hub
